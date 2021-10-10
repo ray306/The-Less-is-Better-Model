@@ -1,6 +1,5 @@
 from itertools import chain
 from collections import Counter
-import numpy as np
 
 class TrieList:
     word_end = -1
